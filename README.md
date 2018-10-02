@@ -1,2 +1,3 @@
 # hak5-c2-heroku
-Hak5 C2 for Heroku
+
+This is a heroku depoly ment of Hak5's C2 Server
