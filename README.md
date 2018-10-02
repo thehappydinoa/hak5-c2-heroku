@@ -1,3 +1,3 @@
-# hak5-c2-heroku
+# Hak5 Cloud C2 for Heroku
 
-This is a heroku depoly ment of Hak5's C2 Server
+This is a heroku deployment of Hak5's Cloud C2 Server
